@@ -1,0 +1,3 @@
+medcat.cores @ git+https://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@github.com/medcat-jsc/medcat.cores.git
+azure-storage-blob 
+azure-identity
